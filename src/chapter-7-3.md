@@ -1,5 +1,4 @@
-Chapter 6: Managing Workload and Stress in Remote Work: Incorporating Exercise and Breaks
-=========================================================================================
+# Incorporating Exercise and Breaks
 
 Remote work can be a great way to achieve a better work-life balance, but it can also lead to increased workload and stress. In this chapter, we will explore strategies for managing workload and stress in remote work by incorporating exercise and breaks.
 

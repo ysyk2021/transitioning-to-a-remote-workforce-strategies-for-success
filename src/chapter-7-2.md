@@ -1,5 +1,4 @@
-Chapter 6: Managing Workload and Stress in Remote Work: Strategies for Reducing Stress
-======================================================================================
+# Strategies for Reducing Stress
 
 Remote work can offer many benefits, but it can also be stressful. In this chapter, we will explore strategies for reducing stress in remote work.
 

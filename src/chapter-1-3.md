@@ -1,4 +1,4 @@
-Introduction: Brief History of Remote Work and Transitioning
+Brief History of Remote Work and Transitioning
 ============================================================
 
 Remote work has been around for decades, but the COVID-19 pandemic has brought it to the forefront of many people's minds. In this introduction, we will explore the brief history of remote work and the importance of transitioning to a remote workforce.

@@ -1,5 +1,4 @@
-Chapter 2: Preparing for the Transition: Establishing a Routine
-===============================================================
+# Establishing a Routine
 
 Establishing a routine is essential for success in a remote work environment. In this chapter, we will explore how to establish a routine that promotes productivity and well-being.
 

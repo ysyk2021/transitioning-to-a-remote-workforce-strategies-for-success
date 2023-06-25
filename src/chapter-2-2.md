@@ -1,5 +1,4 @@
-Chapter 1: Assessing Your Readiness for Remote Work: Determining Your Technological Capabilities
-================================================================================================
+# Determining Your Technological Capabilities
 
 Determining your technological capabilities is an essential part of assessing your readiness for remote work. Here are some factors to consider when evaluating your technological capabilities:
 
