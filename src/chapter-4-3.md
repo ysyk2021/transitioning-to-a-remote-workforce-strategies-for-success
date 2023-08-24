@@ -1,4 +1,3 @@
-# Tips for Avoiding Isolation and Loneliness
 
 Remote work can sometimes feel isolating, especially if you are used to working in a team environment. In this chapter, we will explore tips for avoiding isolation and loneliness while working remotely.
 

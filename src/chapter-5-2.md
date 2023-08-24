@@ -1,4 +1,3 @@
-# Using Technology for Communication
 
 Communication is a critical part of remote work, and technology plays an important role in facilitating communication and collaboration. In this chapter, we will explore the different technology tools that can be used for communication in remote work.
 

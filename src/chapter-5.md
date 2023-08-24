@@ -1,5 +1,3 @@
-Chapter 4: Communication Strategies in Remote Work
-==================================================
 
 Effective communication is crucial for success in a remote work environment. In this chapter, we will explore effective communication practices, using technology for communication, and building relationships remotely.
 

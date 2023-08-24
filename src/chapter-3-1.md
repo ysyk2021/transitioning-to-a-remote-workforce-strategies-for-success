@@ -1,4 +1,3 @@
-# Communicating with Your Employer
 
 Transitioning to a remote workforce requires open and effective communication with your employer. In this chapter, we will explore how to communicate with your employer about transitioning to remote work.
 

@@ -1,4 +1,3 @@
-# Setting up a Workspace
 
 One of the most important aspects of transitioning to remote work is setting up a dedicated workspace. In this chapter, we will explore how to set up an effective remote workspace.
 

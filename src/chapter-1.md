@@ -1,5 +1,3 @@
-Introduction
-============
 
 The COVID-19 pandemic has revolutionized the way we work, forcing many companies to transition to remote work. In this book, we will explore strategies for success in transitioning to a remote workforce.
 

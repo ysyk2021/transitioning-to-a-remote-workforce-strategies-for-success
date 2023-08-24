@@ -1,4 +1,3 @@
-# Building Relationships Remotely
 
 Building and maintaining relationships is essential in any work environment, including remote work. In this chapter, we will explore strategies for building relationships remotely.
 
@@ -26,5 +25,4 @@ Conclusion
 ----------
 
 In conclusion, building and maintaining relationships is essential in a remote work environment. By implementing strategies such as regular check-ins, virtual social events, recognizing achievements, and showing empathy and understanding, teams can build strong relationships and maintain a sense of community despite physical distance.
-
 

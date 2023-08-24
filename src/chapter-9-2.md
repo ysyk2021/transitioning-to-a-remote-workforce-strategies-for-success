@@ -1,4 +1,3 @@
-# Evolving Attitudes towards Remote Work
 
 Remote work has become increasingly popular due to the COVID-19 pandemic, and it is likely that this trend will continue in the future. In this chapter, we will explore evolving attitudes towards remote work.
 

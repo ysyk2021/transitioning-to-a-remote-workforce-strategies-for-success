@@ -1,4 +1,3 @@
-# Recap of Strategies for Successful Transition to Remote Work
 
 As we have explored in this book, transitioning to a remote workforce requires careful planning and preparation. In this final chapter, we will recap the strategies for successfully transitioning to remote work.
 

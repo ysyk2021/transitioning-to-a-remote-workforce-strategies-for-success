@@ -1,4 +1,3 @@
-# Overcoming Isolation and Loneliness
 
 One of the biggest challenges of remote work is the potential for isolation and loneliness. In this chapter, we will explore why isolation and loneliness can be an issue, and strategies for overcoming them.
 
