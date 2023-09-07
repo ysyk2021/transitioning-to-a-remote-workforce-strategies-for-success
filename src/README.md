@@ -8,3 +8,7 @@ Whether you're a manager tasked with leading a remote team or an employee making
 So if you're ready to embrace the future of work with confidence, pick up a copy of "Transitioning to a Remote Workforce" today and discover the strategies for success!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

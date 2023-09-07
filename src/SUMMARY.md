@@ -39,3 +39,4 @@
   - [Implications for the future of work](chapter-9-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
