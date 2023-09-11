@@ -1,5 +1,4 @@
-Chapter 19: Effective Communication Practices
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore effective communication practices for remote work. Strong communication skills are crucial for successful collaboration, engagement, and productivity in a remote workforce. By implementing these practices, you can build effective communication channels and foster a cohesive remote team.
 

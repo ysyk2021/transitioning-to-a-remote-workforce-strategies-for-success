@@ -1,5 +1,4 @@
-Chapter 20: Setting Up a Workspace
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of setting up a dedicated workspace when transitioning to a remote workforce. Creating an effective and ergonomic workspace is essential for productivity, focus, and work-life balance. By following these guidelines, you can design a workspace that maximizes your efficiency and supports your overall well-being.
 

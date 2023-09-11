@@ -1,5 +1,4 @@
-Chapter 9: Tips for Avoiding Isolation and Loneliness
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore valuable tips and strategies to help remote workers avoid feelings of isolation and loneliness. Working remotely can sometimes lead to a sense of disconnection, but by implementing these suggestions, individuals can maintain social connections and foster a sense of belonging.
 

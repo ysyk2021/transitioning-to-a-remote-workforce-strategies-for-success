@@ -1,5 +1,4 @@
-Chapter 10: Evaluating Your Work Style
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of evaluating your work style when transitioning to a remote workforce. Understanding your preferences, strengths, and weaknesses can help you optimize your productivity, maintain work-life balance, and thrive in a remote work environment.
 

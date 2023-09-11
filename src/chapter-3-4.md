@@ -1,5 +1,4 @@
-Chapter 16: Familiarizing Yourself with Remote Work Tools
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the essential tools and technologies that are commonly used in remote work environments. Familiarizing yourself with these tools will help you navigate the challenges of transitioning to a remote workforce and ensure efficient communication, collaboration, and productivity.
 

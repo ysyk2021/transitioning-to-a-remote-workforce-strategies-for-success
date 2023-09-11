@@ -1,5 +1,4 @@
-Chapter 14: Techniques for Managing Workload
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore effective techniques for managing workload when transitioning to a remote workforce. Remote work requires strong self-management skills and strategies to maintain productivity, prioritize tasks, and achieve work-life balance.
 

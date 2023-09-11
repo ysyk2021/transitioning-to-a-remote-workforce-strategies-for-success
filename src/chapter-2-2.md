@@ -1,5 +1,4 @@
-Chapter 12: Determining Your Technological Capabilities
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of assessing and determining your technological capabilities when transitioning to a remote workforce. Understanding your technological needs and capabilities is crucial for ensuring a smooth and efficient remote work experience.
 

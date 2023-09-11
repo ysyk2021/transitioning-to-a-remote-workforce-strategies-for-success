@@ -1,5 +1,4 @@
-Chapter 8: Challenges of Remote Team Collaboration
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the challenges that organizations may face when transitioning to a remote workforce regarding team collaboration. While remote work offers numerous benefits, it also presents unique obstacles that need to be addressed for successful collaboration.
 

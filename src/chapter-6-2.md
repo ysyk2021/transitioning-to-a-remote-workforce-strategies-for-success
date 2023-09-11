@@ -1,5 +1,4 @@
-Chapter 6: Strategies for Effective Collaboration
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for effective collaboration when transitioning to a remote workforce. With the growing popularity of remote work, it is crucial to establish efficient collaboration practices to maintain productivity, foster teamwork, and ensure successful outcomes.
 

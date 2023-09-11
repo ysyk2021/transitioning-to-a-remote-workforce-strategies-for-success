@@ -1,5 +1,4 @@
-Chapter 17: Strategies for Reducing Stress
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore effective strategies for reducing stress when transitioning to a remote workforce. Remote work presents unique challenges that can contribute to increased stress levels. By implementing these strategies, you can maintain a healthy work-life balance, manage stress, and promote overall well-being.
 

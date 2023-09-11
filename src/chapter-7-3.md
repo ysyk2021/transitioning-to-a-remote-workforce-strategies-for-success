@@ -1,5 +1,4 @@
-Chapter 18: Incorporating Exercise and Breaks
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the importance of incorporating exercise and breaks into your remote work routine. Engaging in regular physical activity and taking breaks throughout the workday are essential for maintaining physical and mental well-being, increasing productivity, and promoting overall success in a remote workforce.
 

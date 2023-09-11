@@ -1,5 +1,4 @@
-Chapter 21: Establishing a Routine
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of establishing a routine when transitioning to a remote workforce. A consistent and well-structured routine can enhance productivity, maintain work-life balance, and promote overall success in a remote work environment. By following these guidelines, you can establish an effective routine that works for you.
 

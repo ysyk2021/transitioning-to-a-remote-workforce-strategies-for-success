@@ -1,5 +1,4 @@
-Chapter 11: Setting Goals for Remote Work
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the importance of setting goals when transitioning to a remote workforce. Establishing clear and measurable objectives is crucial for maintaining focus, motivation, and productivity in a remote work environment.
 

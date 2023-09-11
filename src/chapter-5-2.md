@@ -1,5 +1,4 @@
-Chapter 15: Using Technology for Communication
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various technologies and tools available for effective communication when transitioning to a remote workforce. Leveraging technology can help bridge the gap of physical distance and facilitate seamless communication among team members.
 

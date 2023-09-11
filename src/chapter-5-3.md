@@ -1,5 +1,4 @@
-Chapter 13: Building Relationships Remotely
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for building strong relationships when transitioning to a remote workforce. Effective relationship building is essential for fostering collaboration, trust, and a sense of belonging within a remote team.
 
